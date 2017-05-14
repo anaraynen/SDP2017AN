@@ -1,6 +1,6 @@
 # SDP2017AN
 
-SDP Module 2017 Courseowrk and Exercises - Ameer Naraynen (anaraynen)
+SDP Module 2017 Coursework and Exercises - Ameer Naraynen (anaraynen)
 
 Birkbeck University 2017
 
