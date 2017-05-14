@@ -8,7 +8,7 @@
 
 ## CW Two - Virtual Machine
 
-*** CW attempted by myself in the end as the student which agreed to partner with me sent me an email stating his decision to withdraw from his course. Therefore with little time and other piroties I decdied to attempt the coursework by myself. (I have proof via emails of this decision and outcome).
+<b>*** CW attempted by myself in the end as the student which agreed to partner with me sent me an email stating his decision to withdraw from his course. Therefore with little time and other piroties I decdied to attempt the coursework by myself. (I have proof via emails of this decision and outcome).</b>
 
 A stack-based virtual machine that executes
  a small set of “bytecode” instructions. Just like the Java Virtual Machine (JVM) that
